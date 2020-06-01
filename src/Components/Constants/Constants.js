@@ -1,0 +1,1 @@
+export const BASE_URL = "https://noroffcors.herokuapp.com/https://api.rawg.io/api/games";
